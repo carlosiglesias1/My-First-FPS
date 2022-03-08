@@ -486,5 +486,9 @@ namespace Unity.FPS.AI
                 m_LastTimeWeaponSwapped = Mathf.NegativeInfinity;
             }
         }
+
+        public void SetLootPrefab(GameObject prefab){
+            this.LootPrefab = prefab;
+        }
     }
 }
