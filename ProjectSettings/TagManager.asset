@@ -5,6 +5,8 @@ TagManager:
   serializedVersion: 2
   tags:
   - Enemy_Floor1
+  - Enemy_Room2
+  - RPG
   layers:
   - Default
   - TransparentFX
